@@ -1,3 +1,6 @@
 https://jhons-organization.gitbook.io/vue-web-app-con-tailwind-y-rick-and-morty-api/
 
-vue-router@4
+
+https://carlosangulo.gitbook.io/angular-workshop/
+
+
